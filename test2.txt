@@ -1,0 +1,5 @@
+Now try withhow to modified the file in local system after loaded into git respostory?
+That same changes also reflex in github rspsotory!!
+** do some changes in test2.txt
+** delete the test2.txt
+(TRY TO MODIFY IN OUR LOCAL SYSTEM --> SAME CHNABEGS WANT TO REFLEX IN GITHUB)
