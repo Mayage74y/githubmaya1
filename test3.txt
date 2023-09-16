@@ -1,0 +1,7 @@
+•	step1: create a file in local system eg:test2.txt
+•	step2: it was in unmodified status  so use git add test2.txt cmd
+•	step3: it will be in add statusit was waiting in stage area
+•	step4: from stage area we want to push in to copy git folder use git commit -m “test2.txt commit msg”
+•	step5:from git copy folder(local resposirtoy) move into git folder(remote repository) use PUSH cmdgit push origin main
+•	step6: then we can see the changes which was reflected in remote git repository
+-->test3.txt (demo tryout) git process
